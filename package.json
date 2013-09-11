@@ -39,6 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "juice": "~0.3.3"
+    "juice": "git://github.com/Aratramba/juice.git"
   }
 }
